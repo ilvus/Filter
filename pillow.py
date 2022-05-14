@@ -17,7 +17,7 @@ class Picture:
         self.photo.show()
 
 
-Photos = Picture("idk")
+Photos = Picture("dog.jpeg")
 Photos.crop_method()
 Photos.bw()
 Photos.display()
