@@ -21,3 +21,4 @@ Photos = Picture("E:\Study\Pillow\img\dog.jpeg")
 Photos.crop_method()
 Photos.bw()
 Photos.display()
+
